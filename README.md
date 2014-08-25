@@ -11,7 +11,7 @@ Fastest uses `future` to eagerly schedule tasks. When one of the expressions ret
 To start, create a [Leiningen](http://leiningen.org) project and add the following dependency to `project.clj`:
 
 ```clojure
-[fastest "0.1.0"]
+[![Clojars Project](http://clojars.org/fastest/latest-version.svg)]
 ```
 
 Next, load Fastest as follows:
